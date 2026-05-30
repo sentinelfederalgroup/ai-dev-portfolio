@@ -32,11 +32,12 @@ Build a repo that shows serious AI engineering discipline.
 
 Minimum feature set:
 
-- YAML/JSON eval definitions
-- deterministic test runner
-- scoring plugins
-- regression report output
-- example evals for moderation and summarization
+- [x] JSON eval definitions
+- [x] deterministic test runner
+- [x] scoring plugins
+- [x] regression report output
+- [x] example evals for moderation
+- [ ] example evals for summarization
 
 ## Phase 3: Add agent workflows
 

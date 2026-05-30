@@ -15,6 +15,10 @@ human-approved automation.
 - **Prismoid Streamer Agent**: multi-platform streamer co-mod assistant with
   local policy checks, four visual modes, streamer-only commands, and
   approval-gated Twitch moderation.
+- **Local RAG Desk**: local document QA with lexical retrieval, citations,
+  evals, and a simple web UI without paid API tokens.
+- **AI Eval Harness**: dependency-light regression runner for AI behavior with
+  weighted scorers and Markdown reports.
 - **Sentinel Ops HQ**: portfolio seed project to audit and refine.
 
 ## Building next

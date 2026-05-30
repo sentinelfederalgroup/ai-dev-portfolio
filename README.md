@@ -19,6 +19,7 @@ Build practical AI tools with real product surfaces:
 | --- | --- | --- | --- |
 | Prismoid Streamer Agent | https://github.com/sentinelfederalgroup/prismoid-agent1 | Built | Multi-platform streamer co-mod UI, local policy engine, Twitch moderation wiring, product polish |
 | Local RAG Desk | https://github.com/sentinelfederalgroup/local-rag-desk | Built | Local retrieval, citations, evals, no paid API token requirement |
+| AI Eval Harness | https://github.com/sentinelfederalgroup/ai-eval-harness | Built | Weighted AI behavior evals, regression reports, CI-friendly checks |
 | Sentinel Ops HQ | https://github.com/KALADlN/sentinel-ops-hq | Existing | Existing portfolio seed; needs audit and positioning |
 
 ## Target portfolio shape

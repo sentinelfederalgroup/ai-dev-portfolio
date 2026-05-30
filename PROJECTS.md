@@ -36,6 +36,8 @@ embedding model, SQLite.
 
 ## 3. AI Eval Harness
 
+**Repo:** https://github.com/sentinelfederalgroup/ai-eval-harness
+
 **Pitch:** A small but serious framework for testing AI behavior before shipping.
 
 **Proof points:**
@@ -44,6 +46,8 @@ embedding model, SQLite.
 - scored output
 - regression reports
 - CI-ready design
+
+**Status:** Initial repo built and published.
 
 ## 4. Agent Workflow Runner
 
