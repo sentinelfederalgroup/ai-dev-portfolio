@@ -9,6 +9,7 @@
 - [ ] Add a polished README section for the streamer-agent feature.
 - [ ] Audit `sentinel-ops-hq` and decide whether to improve, archive, or reposition it.
 - [ ] Create portfolio site repo.
+- [x] Create Local RAG Desk repo.
 
 ## Phase 2: Add two strong AI engineering repos
 
@@ -19,11 +20,11 @@ and runs without paid API tokens.
 
 Minimum feature set:
 
-- ingest `.md`, `.txt`, and `.pdf`
-- local embedding option
-- citation-backed answers
-- simple desktop or web UI
-- eval set with at least 20 questions
+- [x] ingest `.md`, `.txt`, and best-effort `.pdf`
+- [ ] local embedding option
+- [x] citation-backed answers
+- [x] simple local web UI
+- [ ] eval set with at least 20 questions
 
 ### AI Evaluation Harness
 

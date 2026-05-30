@@ -17,6 +17,8 @@ and product polish.
 
 ## 2. Local RAG Desk
 
+**Repo:** https://github.com/sentinelfederalgroup/local-rag-desk
+
 **Pitch:** A private document assistant that answers questions from local files
 with citations and no paid API token requirement.
 
@@ -29,6 +31,8 @@ embedding model, SQLite.
 - citations
 - local-first privacy
 - evals
+
+**Status:** Initial repo built and published.
 
 ## 3. AI Eval Harness
 
